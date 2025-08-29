@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>🛠️ Desenvolvedor full stack em formação | Foco em backend<br>💻 Experiência com TypeScript, Node.js, Express, Prisma, Next.js e PostgreSQL<br>🔍 Buscando oportunidades como estagiário ou júnior em desenvolvimento de software<br>📚 Sempre aprendendo e explorando boas práticas como Clean Architecture, POO e TDD<br><br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>🛠️ Desenvolvedor full stack em formação | Foco em backend<br>💻 Experiência com Django, TypeScript, Node.js, Express, Prisma, Next.js e PostgreSQL<br>🔍 Buscando oportunidades como estagiário ou júnior em desenvolvimento de software<br>📚 Sempre aprendendo e explorando boas práticas como Clean Architecture, POO e TDD<br><br>
 
 
 ## 🌐 Socials:
