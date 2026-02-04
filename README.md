@@ -24,6 +24,13 @@ Linguagens & Tecnologias: `Javascript`, `Typescript`, `Clean Architechiture`, `A
 Linguagens & Tecnologias: `Javascript`, `Typescript` ,`React`, `Axios`, `Tailwind`, `CSS`, `ShadCN`\
 <br/>
 
+<img align="left" width="53" height="50" alt="icon" src="https://github.com/user-attachments/assets/8d99da39-6e9e-4b5f-88fe-ab678f950e10" />
+
+**Finnance Flow** \
+[**Finnance Flow**](https://finance-flow-delta-henna.vercel.app) • Pessoal\
+Linguagens & Tecnologias: `Typescript` ,`Next.js`, `Express.js`, `Prisma`, `Zod`, `Tailwind`, `ShadCN`,`Clean Architecture`, `ESLint` \
+<br/>
+
 
 <br/>
 
