@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🎓 Sou um Analista e desenvolvedor de Sistemas<br>🛠️ Desenvolvedor full stac | Foco em backend<br>💻 Experiência com TypeScript, Node.js, Express, Nest.js, Prisma, Next.js e PostgreSQL<br>📚 Sempre aprendendo e explorando boas práticas como Clean Architecture, SOLID e Design Patterns<br><br>
+🎓 Sou um Analista e desenvolvedor de Sistemas<br>🛠️ Desenvolvedor full stack | Foco em backend<br>💻 Experiência com TypeScript, Node.js, Express, Nest.js, Prisma, Next.js e PostgreSQL<br>📚 Sempre aprendendo e explorando boas práticas como Clean Architecture, SOLID e Design Patterns<br><br>
 
 
 ## 🌐 Socials:
